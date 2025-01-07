@@ -1,0 +1,16 @@
+D:\WinForms\KinoKursov\KinoKursov\bin\Debug\net8.0-windows\KinoKursov.exe
+D:\WinForms\KinoKursov\KinoKursov\bin\Debug\net8.0-windows\KinoKursov.deps.json
+D:\WinForms\KinoKursov\KinoKursov\bin\Debug\net8.0-windows\KinoKursov.runtimeconfig.json
+D:\WinForms\KinoKursov\KinoKursov\bin\Debug\net8.0-windows\KinoKursov.dll
+D:\WinForms\KinoKursov\KinoKursov\bin\Debug\net8.0-windows\KinoKursov.pdb
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.Form1.resources
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.csproj.GenerateResource.cache
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.AssemblyInfoInputs.cache
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.AssemblyInfo.cs
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.csproj.CoreCompileInputs.cache
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.dll
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\refint\KinoKursov.dll
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.pdb
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\KinoKursov.genruntimeconfig.cache
+D:\WinForms\KinoKursov\KinoKursov\obj\Debug\net8.0-windows\ref\KinoKursov.dll
